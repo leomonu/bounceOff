@@ -1,2 +1,2 @@
-# bounceOff
-this is a bounceOff of two rectangcles
+# p5.play-boilerplate
+Boiler plate for p5.play
